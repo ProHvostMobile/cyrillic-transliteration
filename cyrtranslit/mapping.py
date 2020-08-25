@@ -112,13 +112,13 @@ RU_CYR_TO_LAT_DICT = {
     u"Ц": u"C", u"ц": u"c",
     u"Ч": u"CH", u"ч": u"ch",
     u"Ш": u"SH", u"ш": u"sh",
-    u"Щ": u"SZ", u"щ": u"sz",
-    u"Ъ": u"#", u"ъ": u"#",
+    u"Щ": u"SCH", u"щ": u"sch",
+    u"Ъ": u"", u"ъ": u"",
     u"Ы": u"Y", u"ы": u"y",
-    u"Ь": u"'", u"ь": u"'",
-    u"Э": u"EH", u"э": u"eh",
-    u"Ю": u"JU", u"ю": u"ju",
-    u"Я": u"JA", u"я": u"ja",
+    u"Ь": u"", u"ь": u"",
+    u"Э": u"E", u"э": u"e",
+    u"Ю": u"YU", u"ю": u"yu",
+    u"Я": u"YA", u"я": u"ya",
 }
 
 # This dictionary is to transliterate from Russian latin to cyrillic.
